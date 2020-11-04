@@ -1,0 +1,14 @@
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\bin\Debug\Domiciliario.exe.config
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\bin\Debug\Domiciliario.exe
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\bin\Debug\Domiciliario.pdb
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\obj\Debug\Domiciliario.csprojAssemblyReference.cache
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\obj\Debug\Domiciliario.csproj.CoreCompileInputs.cache
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\obj\Debug\Domiciliario.exe
+C:\Users\Dehibi Blandon\source\repos\Domiciliario\Domiciliario\obj\Debug\Domiciliario.pdb
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\bin\Debug\Domiciliario.exe.config
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\bin\Debug\Domiciliario.exe
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\bin\Debug\Domiciliario.pdb
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\obj\Debug\Domiciliario.csprojAssemblyReference.cache
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\obj\Debug\Domiciliario.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\obj\Debug\Domiciliario.exe
+C:\Users\danny\Desktop\Domiciliario\Domiciliario\Domiciliario\obj\Debug\Domiciliario.pdb
